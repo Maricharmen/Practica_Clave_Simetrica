@@ -1,5 +1,3 @@
-# Practica_Clave_Simetrica
-
 # Sistemas Distribuidos 
 
 ## Unidad 5 : Seguridad en Sistemas Distribuidos 
